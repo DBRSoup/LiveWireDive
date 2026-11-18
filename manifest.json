@@ -5,5 +5,5 @@
   "website_url": "https://github.com/DBRSoup/LiveWireDive",
   "dependencies": [
     "BepInEx-BepInExPack_Mycopunk-5.4.2403"
-  ],
+  ]
 }
