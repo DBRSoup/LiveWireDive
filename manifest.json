@@ -1,0 +1,9 @@
+{
+  "name": "LiveWireDive",
+  "description": "When Live Wire is active, triggering a nose dive explosion also forcefully advances Live Wire to the next interval, causing it to explode with the dive and shortening its duration.",
+  "version_number": "1.3.0",
+  "website_url": "https://github.com/DBRSoup/LiveWireDive",
+  "dependencies": [
+    "BepInEx-BepInExPack_Mycopunk-5.4.2403"
+  ],
+}
